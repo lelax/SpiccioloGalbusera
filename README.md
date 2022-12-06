@@ -1,1 +1,2 @@
 # SpiccioloGalbusera
+ambiente di test
