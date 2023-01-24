@@ -1,0 +1,128 @@
+
+  /*--------------------------------------------------------------
+  # Sections & Section Header
+  --------------------------------------------------------------*/
+
+  
+img {
+    width: 100%;
+    height: auto;
+}
+
+
+.bline {
+    background-color: #005aab;
+    color: #005aab;
+    font-size: 6px;
+}
+
+.maintext {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(67, 67, 67);
+    font-size: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    
+}
+
+.footerg {
+    background-color:#B8BE14;
+                
+}
+
+.footer1 {
+    text-align: left;
+    color:white;
+    font-size: 16px;
+}
+
+.footerc {
+    background-color:#FCEA1B;
+}
+.footer2 {
+    text-align: left;
+    color: #005aab;
+    font-size: 16px;
+}
+
+.imgfooter{
+    max-width: 100%;
+}
+
+.buttong {
+    background-color: #fff;
+    border: none;
+    color: #B8BE14;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.buttonc {
+    background-color: #005aab;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+  
+
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+  }
+  
+  @media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }
+
+.col-12 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(67, 67, 67);
+    font-size: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
